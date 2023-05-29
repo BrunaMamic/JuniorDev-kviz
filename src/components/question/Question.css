@@ -1,0 +1,8 @@
+.question {
+  display: flex;
+  justify-content: center;
+  margin: 35px;
+  font-size: 1.5em;
+  font-weight: 300;
+  width: 40em;
+}

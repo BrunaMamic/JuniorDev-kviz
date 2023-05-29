@@ -1,0 +1,28 @@
+.krivoo {
+  background-color: rgb(111, 49, 49) !important;
+}
+.tocno {
+  background-color: rgb(67, 97, 31) !important;
+}
+
+.answers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  /* width: 55px;
+  height: 55px; */
+  background-color: #28234cb5;
+  width: 28em;
+  height: 40px;
+  font-size: 1.3em;
+  border-radius:15px;
+}
+
+.answersEdit {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+

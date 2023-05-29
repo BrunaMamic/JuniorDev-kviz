@@ -1,0 +1,10 @@
+.corrAns {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #d27685;
+  border-radius: 69% 31% 72% 28% / 19% 81% 19% 81% ;
+  width: 7em;
+  height: 7em;
+  font-size: 1.2em;
+}
